@@ -1,0 +1,6 @@
+C:\Users\Student_11\Documents\PSoC Creator\Volodya\VolodyaRadioengenner\Design01.cydsn\Design01.cyprj|5483670b-ff90-44ce-b2e1-e467530a3683
+C:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|90d5983a-6116-423a-959f-dc16e3984e6d
+C:\Users\Student_11\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|ceb87afd-9864-4048-835b-a2c6dec02bd5
+C:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cb348ec8-92cb-4fce-aee8-08995432618b
+C:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5ffbb808-3afe-41ed-9072-4dc7dbaccbfc
+C:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e5e551d0-d226-4ade-9598-735f674e3593

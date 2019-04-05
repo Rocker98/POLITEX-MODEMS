@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="VolodyaRadioengenner\Design01\Source Files\main.c">
+<ExpandedNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\TopDesign</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Pins</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Analog</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Clocks</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Interrupts</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\System</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Directives</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Flash Security</v>
+<v>VolodyaRadioengenner\Design01\Header Files</v>
+<v>VolodyaRadioengenner\Design01\Header Files\cyapicallbacks.h</v>
+<v>VolodyaRadioengenner\Design01\Source Files</v>
+<v>VolodyaRadioengenner\Design01\Source Files\main.c</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\TopDesign</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Pins</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Analog</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Clocks</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Interrupts</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\System</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Directives</v>
+<v>VolodyaRadioengenner\Design01\Design01.cydwr\Flash Security</v>
+<v>VolodyaRadioengenner\Design01\Header Files</v>
+<v>VolodyaRadioengenner\Design01\Header Files\cyapicallbacks.h</v>
+<v>VolodyaRadioengenner\Design01\Source Files</v>
+<v>VolodyaRadioengenner\Design01\Source Files\main.c</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cy_boot</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cy_lfclk</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\IDAC</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\Pin_2</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cyfitter.h</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>VolodyaRadioengenner\Design01\Generated_Source\PSoC4\cymetadata.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\TopDesign</v>
+<v>VolodyaRadioengenner\Design01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\TopDesign</v>
+<v>VolodyaRadioengenner\Design01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\CortexM0</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\IDAC.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\IDAC_PM.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_2.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_2_PM.lst</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Design01.elf</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Design01.hex</v>
+<v>VolodyaRadioengenner\Design01\CortexM0\ARM_GCC_541\Debug\Design01.map</v>
+<v>VolodyaRadioengenner\Design01\Design01.gpdsc</v>
+<v>VolodyaRadioengenner\Design01\Design01.rpt</v>
+<v>VolodyaRadioengenner\Design01\Design01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\Design01.rpt</v>
+<v>VolodyaRadioengenner\Design01\Design01_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\PSoC 4 Architecture TRM</v>
+<v>VolodyaRadioengenner\Design01\PSoC 4200 Family Datasheet</v>
+<v>VolodyaRadioengenner\Design01\System Reference Guides</v>
+<v>VolodyaRadioengenner\Design01\System Reference Guides\cy_boot_v5_80</v>
+<v>VolodyaRadioengenner\Design01\System Reference Guides\cy_lfclk_v1_20</v>
+<v>VolodyaRadioengenner\Design01\cy_pins_v2_20.pdf</v>
+<v>VolodyaRadioengenner\Design01\IDAC_P4_v1_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VolodyaRadioengenner</v>
+<v>VolodyaRadioengenner\Design01</v>
+<v>VolodyaRadioengenner\Design01\PSoC 4 Architecture TRM</v>
+<v>VolodyaRadioengenner\Design01\PSoC 4200 Family Datasheet</v>
+<v>VolodyaRadioengenner\Design01\System Reference Guides</v>
+<v>VolodyaRadioengenner\Design01\System Reference Guides\cy_boot_v5_80</v>
+<v>VolodyaRadioengenner\Design01\System Reference Guides\cy_lfclk_v1_20</v>
+<v>VolodyaRadioengenner\Design01\cy_pins_v2_20.pdf</v>
+<v>VolodyaRadioengenner\Design01\IDAC_P4_v1_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Design01.cydsn\main.c" />
+<name v=".\Design01.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Design01.cydsn\Design01.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="453, 528" SelectedTabbedMdiWindow="c222f1a6-2ed3-4299-a5be-1a9370ec88a1"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="f7adf9c4-3262-45a3-b00b-a70243609e62" /><DocumentWindow Key="C:\Users\Student_11\Documents\PSoC Creator\Volodya\VolodyaRadioengenner\Design01.cydsn\main.c" Guid="c222f1a6-2ed3-4299-a5be-1a9370ec88a1" /><DocumentWindow Key="C:\Users\Student_11\Documents\PSoC Creator\Volodya\VolodyaRadioengenner\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="b8c7b427-dc42-4c95-9da9-bf23606299aa" /><DocumentWindow Key="C:\Users\Student_11\Documents\PSoC Creator\Volodya\VolodyaRadioengenner\Design01.cydsn\Design01.cydwr" Guid="0853cc71-3d6e-4155-b825-79abaacfcbd7" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
